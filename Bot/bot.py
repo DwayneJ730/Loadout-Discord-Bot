@@ -1,7 +1,8 @@
 import discord
 import responses
 import private
-
+from LoadoutCreateView import LoadoutCreateView
+from discord.ext import commands
 
 async def send_message(message, user_message, is_private):
     try:
@@ -14,8 +15,9 @@ async def send_message(message, user_message, is_private):
 def run_discord_bot():
     TOKEN = private.TOKEN
     intents = discord.Intents.all()
+    intents.message_content = True
     intents.members = False
-    client = discord.Client(intents=intents)
+    client = commands.Bot(command_prefix="!", intents=intents)
 
     @client.event
     async def on_ready():
@@ -38,5 +40,10 @@ def run_discord_bot():
             await send_message(message, user_message, is_private=True)
         else:
             await send_message(message, user_message, is_private=False)
+
+    @client.command()
+    async def add(ctx):
+        view = LoadoutCreateView()
+        await ctx.send(view=view)
 
     client.run(TOKEN)

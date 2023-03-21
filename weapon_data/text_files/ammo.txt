@@ -1,0 +1,85 @@
+6.5mm High Velocity
+6.5mm Hollowpoint
+6.5mm Frangible
+6.5mm Armor Piercing
+6.5mm Overpressured +P
+6.5mm Incendiary
+5.56 Armor Piercing
+5.56 Overpressured +P
+.458 Frangible
+.458 Overpressure +P
+.458 High Velocity
+.458 Hollow Point
+.458 Armor Piercing
+5.7x28mm Hollow Point
+7.62 Armor Piercing
+7.62 Incendiary
+5.56 High Velocity
+7.62 Hollowpoint
+7.62 Overpressured +P7.62 High Velocity
+7.62 Frangible
+5.45 Armor Piercing
+5.45 Overpressured +P
+5.45 High Velocity
+5.45 Hollowpoint
+5.45 Frangible
+9mm Hollowpoint
+9mm Frangible
+9mm Armor Piercing
+9mm Overpressured +P
+5.56 Frangible
+.308 Frangible
+.308 Armor Piercing
+.308 High Velocity
+.308 Overpressured +P
+.308 Hollow Point
+.308 Incendiary
+.300 Armor Piercing
+.45 GVT Frangible
+.45 GVT Hollowpoint
+.45 GVT Armor Piercing
+.45 GVT Overpressured +P
+.45 GVT High Velocity
+.45 GVT Incendiary
+.500 Hollowpoint
+.338 Mag Armor Piercing
+.500 Frangible
+5.7x28mm Armor Piercing
+4.6mm Frangible
+4.6mm Hollowpoint
+4.6mm Armor Piercing
+4.6mm Overpressured +P
+9mm Sub FR
+9mm Sub HP
+9mm Sub AP
+9mm Sub OP
+5.7x28mm Frangible
+5.7x28mm Overpressured +P
+.45 Auto Frangible
+.45 Auto Hollowpoint
+.45 Auto Armor Piercing
+.45 Auto Overpressured +P
+5.56 Incendiary
+.338 Mag Frangible
+.338 Mag Hollowpoint
+.338 Mag Overpressured +P
+.338 Mag High Velocity
+.338 Mag Incendiary
+12 Gauge Explosive
+12 Gauge Slug
+12 Gauge Dragon's Breath
+.300 Mag Armor Piercing
+.300 Mag Incendiary
+.300 Mag Frangible
+.300 Mag Hollowpoint
+.300 Mag High Velocity
+.300 Mag Overpressured +P
+.50 Cal Frangible
+.50 Cal Armor Piercing
+.50 Cal Explosive
+.300 Hollowpoint
+.300 Overpressured +P
+.300 High Velocity
+.300 Incendiary
+.300 Frangible
+.50 Cal High Velocity

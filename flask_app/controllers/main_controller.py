@@ -2,7 +2,7 @@ from flask_app import app
 from flask import render_template, redirect, request, session
 from flask_app.models.loadout_model import Loadout
 from flask_app.models.gun_model import Gun
-from flask_app.weapon_data.weapons import weapons, attachments
+from weapon_data.weapons import weapons, attachments
 
 
 @app.route("/")
